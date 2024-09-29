@@ -1,0 +1,182 @@
+[
+ {
+   "id":11,
+    "name":"Aloo Poori",
+    "amt":"80",
+    "shop":"JS Food",
+    "ftype":"Veg",
+    "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+    "latest":"No"
+ },
+ {
+    "id":12,
+     "name":"Atta Dosa",
+     "amt":"50",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":13,
+     "name":"Bhasmathi Rice",
+     "amt":"90",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":14,
+     "name":"Carrot Fry",
+     "amt":"100",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":15,
+     "name":"Carrot Rice",
+     "amt":"80",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":16,
+     "name":"Channa Masala",
+     "amt":"250",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":17,
+     "name":"Chapathi",
+     "amt":"100",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":18,
+     "name":"Dosa",
+     "amt":"60",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":19,
+     "name":"Ghee Rice",
+     "amt":"200",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":20,
+     "name":"Paneer Biryani",
+     "amt":"250",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":21,
+     "name":"Paneer Butter Masala",
+     "amt":"300",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":22,
+     "name":"Paneer Fry Rice",
+     "amt":"250",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":23,
+     "name":"Paneer Fry",
+     "amt":"300",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":24,
+     "name":"Paneer Tikka Masala",
+     "amt":"300",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":25,
+     "name":"Pav Bhaji",
+     "amt":"150",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":26,
+     "name":"Pongal",
+     "amt":"100",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":27,
+     "name":"Poori",
+     "amt":"150",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":28,
+     "name":"Pulao",
+     "amt":"100",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":29,
+     "name":"Rasam",
+     "amt":"70",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  },
+  {
+    "id":30,
+     "name":"Rice",
+     "amt":"70",
+     "shop":"JS Food",
+     "ftype":"Veg",
+     "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+     "latest":"No"
+  }
+]
